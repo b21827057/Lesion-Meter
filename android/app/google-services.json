@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774359381631",
+    "project_id": "lesion-meter",
+    "storage_bucket": "lesion-meter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774359381631:android:6d5f69a7b47366e4ceb14a",
+        "android_client_info": {
+          "package_name": "com.example.lesion_meter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774359381631-las4h0qh8jchmt09dpq5q9a6al2mh5l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5rCkfNFSzybVaYfS2UQ9TwMXcENi4xCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774359381631-las4h0qh8jchmt09dpq5q9a6al2mh5l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
